@@ -1,0 +1,8 @@
+name: Particle
+main: particle.Particle
+version: 1.0
+depend: [ActionBarAPI]
+
+commands:
+  particle:
+  particleoff:
