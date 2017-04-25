@@ -238,6 +238,6 @@ public class Particle extends JavaPlugin implements Listener {
 			e.getPlayer().playEffect(p.getLocation(), Effect.COLOURED_DUST, 500);
 			e.getPlayer().playEffect(p.getLocation(), Effect.COLOURED_DUST, 500);
 			e.getPlayer().playEffect(p.getLocation(), Effect.COLOURED_DUST, 500);
+		}
 	}
-}
 }
